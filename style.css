@@ -58,12 +58,17 @@ body{
 }
 
 #mission {
-    background-color: #027301;
+    background-color: #54296e;
     margin-top: -100px;
     padding-top: 200px;
 }
 
 #values {
+    background-color: #54296e;
+    margin-top: -100px;
+    padding-top: 200px;
+}
+#about-us {
     background-color: #54296e;
     margin-top: -100px;
     padding-top: 200px;
